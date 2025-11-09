@@ -820,7 +820,7 @@ a {
   margin: 0 !important;
 }
 .cid-v1Y5ZNMbxJ .navbar-brand {
-  background-color: #232323;
+  background-color: #000000;
   display: flex;
   margin-bottom: -3rem;
   transform: scale(1.2);
@@ -869,7 +869,7 @@ a {
   font-weight: 600;
 }
 .cid-v1Y5ZNMbxJ .nav-link:hover {
-  color: #232323 !important;
+  color: #000000 !important;
 }
 .cid-v1Y5ZNMbxJ .nav-link:hover:before {
   opacity: 1;
@@ -884,7 +884,7 @@ a {
   width: 12px;
   transition: all 0.3s;
   opacity: 0;
-  background: #232323;
+  background: #000000;
 }
 .cid-v1Y5ZNMbxJ .btn-white {
   color: #970c10 !important;
