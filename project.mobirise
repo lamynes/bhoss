@@ -299,7 +299,9 @@
         "meta_descr": "Discover Boss Hoss Cycles, founded in 1990 by Monte Warne. Experience the unique V-8 powered cruiser motorcycle, blending aircraft pilot innovation with traditional style. Its single-speed transmission ensures a balanced, unparalleled ride.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/dedsdfs.jpg-1-1000x650.jpg"
       },
       "components": [
         {
@@ -806,12 +808,12 @@
           "_cid": "v1Y20Ij9xR",
           "_anchor": "hero-17-v1Y20Ij9xR",
           "alias": false,
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         },
         {
           "_styles": {
