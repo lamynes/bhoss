@@ -1828,15 +1828,18 @@ a {
     left: -1rem;
   }
 }
-.cid-veNtuuxC49 {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #2e481a;
+.cid-veNuvDNEPE {
+  display: flex;
+  background-image: url("../../../assets/images/32588580-1772104306180903-9126411810117779456-n.jpg-960x720.jpg");
 }
-.cid-veNtuuxC49 .mbr-fallback-image.disabled {
+.cid-veNuvDNEPE .mbr-overlay {
+  background-color: #f92c50;
+  opacity: 0.5;
+}
+.cid-veNuvDNEPE .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-veNtuuxC49 .mbr-fallback-image {
+.cid-veNuvDNEPE .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1845,33 +1848,46 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-veNtuuxC49 .card-wrapper {
-  background: #2e481a;
-}
-@media (max-width: 767px) {
-  .cid-veNtuuxC49 .card-wrapper {
-    padding: 1.5rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-veNtuuxC49 .card-wrapper {
-    padding: 2.25rem;
-  }
+.cid-veNuvDNEPE .content-wrap {
+  padding: 5rem 1rem;
 }
 @media (min-width: 992px) {
-  .cid-veNtuuxC49 .card-wrapper {
-    padding: 9rem 4rem;
+  .cid-veNuvDNEPE .content-wrap {
+    padding: 5rem 3rem;
   }
 }
-.cid-veNtuuxC49 .mbr-text,
-.cid-veNtuuxC49 .mbr-section-btn {
-  color: #000000;
+@media (min-width: 768px) {
+  .cid-veNuvDNEPE {
+    align-items: center;
+  }
+  .cid-veNuvDNEPE .row {
+    justify-content: center;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-veNuvDNEPE .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-veNuvDNEPE {
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-veNuvDNEPE .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-veNuvDNEPE .content-wrap {
+    width: 100%;
+  }
+}
+.cid-veNuvDNEPE .mbr-section-title {
   text-align: center;
 }
-.cid-veNtuuxC49 .card-title,
-.cid-veNtuuxC49 .card-box {
+.cid-veNuvDNEPE .mbr-text,
+.cid-veNuvDNEPE .mbr-section-btn {
   text-align: center;
-  color: #2e481a;
 }
 #custom-html-k {
   /* Type valid CSS here */
