@@ -1088,7 +1088,7 @@
               "text-align": "center"
             },
             ".copyright": {
-              "color": "#9A948D"
+              "color": "#000000"
             },
             ".list": {
               "letter-spacing": ".2em",
@@ -1704,7 +1704,7 @@
               "text-align": "center"
             },
             ".copyright": {
-              "color": "#9A948D"
+              "color": "#000000"
             },
             ".list": {
               "letter-spacing": ".2em",
