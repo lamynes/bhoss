@@ -1265,7 +1265,7 @@ a {
   color: #000000;
 }
 .cid-v1Y20IrIGF {
-  background-image: url("../../../assets/images/625358849-1333248355502285-7405118867571103671-n.jpg-1536x2048.jpg");
+  background-image: url("../../../assets/images/hd-widescreen-tracto.png-1536x1024.png");
   overflow: hidden;
 }
 .cid-v1Y20IrlXp {
@@ -1428,62 +1428,6 @@ a {
 }
 .cid-v1ZCyiUUAL .mbr-section-subtitle {
   color: #ffffff;
-}
-.cid-veNJACg7rT {
-  background-image: url("../../../assets/images/hd-tractor-workshop.png-1536x1024.png");
-  overflow: hidden;
-}
-.cid-veNJACg7rT .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-veNJACg7rT .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-veNJACg7rT .gradient-wrapper {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: linear-gradient(315deg, #000000 -40%, transparent 50%, transparent 50%, #000000 100%);
-}
-.cid-veNJACg7rT .title-wrapper {
-  position: relative;
-  z-index: 1;
-}
-.cid-veNJACg7rT .title-wrapper .mbr-section-title {
-  margin-bottom: 25px;
-}
-.cid-veNJACg7rT .title-wrapper .text-wrapper .mbr-text {
-  display: inline-block;
-  width: 50%;
-  margin-bottom: 0;
-}
-@media (max-width: 992px) {
-  .cid-veNJACg7rT .title-wrapper .text-wrapper .mbr-text {
-    width: 100%;
-  }
-}
-.cid-veNJACg7rT .title-wrapper .mbr-section-btn {
-  margin-top: 15px;
-}
-.cid-veNJACg7rT .mbr-section-title {
-  color: #ffffff;
-}
-.cid-veNJACg7rT .mbr-text,
-.cid-veNJACg7rT .text-wrapper {
-  color: #ffffff;
-  text-align: center;
-}
-.cid-veNJACg7rT .mbr-section-btn,
-.cid-veNJACg7rT .mbr-section-title {
-  text-align: center;
 }
 .cid-v1Y5ZNMbxJ .dropdown-item:before {
   font-family: MobiriseIcons !important;
@@ -1883,6 +1827,62 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-veNJACg7rT {
+  background-image: url("../../../assets/images/hd-tractor-workshop.png-1536x1024.png");
+  overflow: hidden;
+}
+.cid-veNJACg7rT .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-veNJACg7rT .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-veNJACg7rT .gradient-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(315deg, #000000 -40%, transparent 50%, transparent 50%, #000000 100%);
+}
+.cid-veNJACg7rT .title-wrapper {
+  position: relative;
+  z-index: 1;
+}
+.cid-veNJACg7rT .title-wrapper .mbr-section-title {
+  margin-bottom: 25px;
+}
+.cid-veNJACg7rT .title-wrapper .text-wrapper .mbr-text {
+  display: inline-block;
+  width: 50%;
+  margin-bottom: 0;
+}
+@media (max-width: 992px) {
+  .cid-veNJACg7rT .title-wrapper .text-wrapper .mbr-text {
+    width: 100%;
+  }
+}
+.cid-veNJACg7rT .title-wrapper .mbr-section-btn {
+  margin-top: 15px;
+}
+.cid-veNJACg7rT .mbr-section-title {
+  color: #ffffff;
+}
+.cid-veNJACg7rT .mbr-text,
+.cid-veNJACg7rT .text-wrapper {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-veNJACg7rT .mbr-section-btn,
+.cid-veNJACg7rT .mbr-section-title {
+  text-align: center;
 }
 #custom-html-k {
   /* Type valid CSS here */
