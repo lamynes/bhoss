@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Farmer John's Parts",
-    "currentPage": "index.html",
+    "currentPage": "merch.html",
     "ai": {
       "prompt": "Boss Hoss Cycles, Inc. was established in 1990 when Monte Warne, the founder of Boss Hoss Cycles, Inc., created his first Chevy V-8 powered motorcycle in his 5000 square foot shop in Dyersburg, TN. Monte, a commercial aircraft pilot and degreed Aviation Airframe and Power plant technician, was the first to design a V-8 powered motorcycle that has a traditional cruiser motorcycle style, look and feel. This was accomplished by his unique approach to the motorcycles single speed (one gear) transmission design. The right angle drive transmission allows the length of the bike to be kept to a minimum and the engine-mounting inline with the frame made for a well-balanced design that is unequaled by any other V-8 powered motorcycles.",
       "imageSearchQuery": "motorcycle"
@@ -1579,21 +1579,6 @@
           "_params": {}
         },
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<div id=\"myShop\">\n    <a href=\"https://BizNezWear.myspreadshop.com\">BizNezWear</a>\n</div>",
-          "_customCSS": "/* Type valid CSS here */\n",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_sourceTheme": "startm5",
-          "_anchor": "custom-html-k",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
-        },
-        {
           "alias": false,
           "_styles": {
             "& when not (@fullScreen)": {
@@ -1670,6 +1655,21 @@
           "_once": false,
           "_params": {},
           "_anchor": "header02-o"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<div id=\"myShop\">\n    <a href=\"https://BizNezWear.myspreadshop.com\">BizNezWear</a>\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "startm5",
+          "_anchor": "custom-html-k",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_name": "footer2",
