@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Farmer John's Parts",
-    "currentPage": "merch.html",
+    "currentPage": "index.html",
     "ai": {
       "prompt": "Boss Hoss Cycles, Inc. was established in 1990 when Monte Warne, the founder of Boss Hoss Cycles, Inc., created his first Chevy V-8 powered motorcycle in his 5000 square foot shop in Dyersburg, TN. Monte, a commercial aircraft pilot and degreed Aviation Airframe and Power plant technician, was the first to design a V-8 powered motorcycle that has a traditional cruiser motorcycle style, look and feel. This was accomplished by his unique approach to the motorcycles single speed (one gear) transmission design. The right angle drive transmission allows the length of the bike to be kept to a minimum and the engine-mounting inline with the frame made for a well-balanced design that is unequaled by any other V-8 powered motorcycles.",
       "imageSearchQuery": "motorcycle"
@@ -270,7 +270,7 @@
         "url": "https://fonts.googleapis.com/css?family=Shadows+Into+Light:400"
       }
     ],
-    "uniqCompNum": 25,
+    "uniqCompNum": 33,
     "imageResize": true,
     "mcSmartCart": {
       "currency": "USD"
@@ -299,7 +299,7 @@
       "settings": {
         "main": true,
         "title": "Farmer John's Parts",
-        "meta_descr": "Farmer John's Parts",
+        "meta_descr": "Farmer John specializes in new and used tractor parts for John Deere tractors and crawlers. We stock used parts, reconditioned parts, new reproduction parts, and rebuilt parts",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1129,7 +1129,7 @@
     "merch.html": {
       "settings": {
         "title": "Our Merchandise",
-        "order": "1",
+        "order": "2",
         "meta_descr": "Shop our Farmer John's Merchandise for your favorite wearable design",
         "header_custom": "<script>\n    var spread_shop_config = {\n        shopName: 'BizNezWear',\n        locale: 'us_US',\n        prefix: 'https://BizNezWear.myspreadshop.com',\n        baseId: 'myShop'\n    };\n</script>\n\n<script type=\"text/javascript\"\n        src=\"https://BizNezWear.myspreadshop.com/shopfiles/shopclient/shopclient.nocache.js\">\n</script>"
       },
