@@ -1747,7 +1747,7 @@
         "title": "Part for sale",
         "order": "2",
         "meta_descr": "Shop our Farmer John's parts inventory on ebay.",
-        "header_custom": "<script type=\"text/javascript\" src=\"https://www.auctionnudge.com/feed/item/js/theme/responsive/page/init/img_size/140/cats_output/dropdown/search_box/1/user_profile/1/add_details/1/show_logo/1/lang/english/SellerID/farmerjohnsparts/siteid/0/MaxEntries/6/target/6db6f11bf\"></script>",
+        "header_custom": "<script type=\"text/javascript\" src=\"https://www.auctionnudge.com/feed/item/js/theme/grid/page/init/img_size/140/cats_output/dropdown/search_box/1/user_profile/1/add_details/1/show_logo/1/grid_cols/2/grid_width/100%25/lang/english/SellerID/farmerjohnsparts/siteid/0/MaxEntries/6/target/77be1084c\"></script>",
         "meta_image": "@PROJECT_PATH@/assets/images/s-l400-1.jpg-400x300.jpg"
       },
       "components": [
