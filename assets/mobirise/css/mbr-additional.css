@@ -1230,6 +1230,18 @@ a {
 .cid-v1Y20Ij9xR .mbr-section-title {
   color: #ffffff;
 }
+.cid-v1Y20Ij9xR .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-v1Y20Ij9xR p,
+.cid-v1Y20Ij9xR h1,
+.cid-v1Y20Ij9xR h2,
+.cid-v1Y20Ij9xR a,
+.cid-v1Y20Ij9xR h3,
+.cid-v1Y20Ij9xR h4,
+.cid-v1Y20Ij9xR h5 {
+  text-shadow: 6px 6px 10px #000000;
+}
 .cid-v1Y20Ilqd5 {
   padding-top: 5rem;
   padding-bottom: 3rem;
