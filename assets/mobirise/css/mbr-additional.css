@@ -942,6 +942,7 @@ a {
   min-height: 77px;
   transition: all 0.3s;
   background: #ffffff;
+  background: none;
 }
 .cid-v1Y5ZNMbxJ .navbar.opened {
   transition: all 0.3s;
@@ -961,7 +962,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-v1Y5ZNMbxJ .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 6.5rem);
   }
 }
 .cid-v1Y5ZNMbxJ .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1604,6 +1605,7 @@ a {
   min-height: 77px;
   transition: all 0.3s;
   background: #ffffff;
+  background: none;
 }
 .cid-v1Y5ZNMbxJ .navbar.opened {
   transition: all 0.3s;
@@ -1623,7 +1625,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-v1Y5ZNMbxJ .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 6.5rem);
   }
 }
 .cid-v1Y5ZNMbxJ .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -2122,6 +2124,7 @@ a {
   min-height: 77px;
   transition: all 0.3s;
   background: #ffffff;
+  background: none;
 }
 .cid-veTKB1LaWp .navbar.opened {
   transition: all 0.3s;
@@ -2141,7 +2144,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-veTKB1LaWp .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 6.5rem);
   }
 }
 .cid-veTKB1LaWp .navbar.collapsed .dropdown-menu .dropdown-submenu {
