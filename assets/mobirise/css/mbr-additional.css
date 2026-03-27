@@ -1604,6 +1604,7 @@ a {
   min-height: 77px;
   transition: all 0.3s;
   background: #ffffff;
+  background: none;
 }
 .cid-v1Y5ZNMbxJ .navbar.opened {
   transition: all 0.3s;
@@ -2122,6 +2123,7 @@ a {
   min-height: 77px;
   transition: all 0.3s;
   background: #ffffff;
+  background: none;
 }
 .cid-veTKB1LaWp .navbar.opened {
   transition: all 0.3s;
