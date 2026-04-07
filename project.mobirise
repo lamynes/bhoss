@@ -280,7 +280,7 @@
       "currency": "USD"
     },
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "chatbutton": {},
     "usedWebp": false,
     "cssOptimize": true,
